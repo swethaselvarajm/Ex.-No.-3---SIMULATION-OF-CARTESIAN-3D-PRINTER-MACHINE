@@ -59,9 +59,10 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![Screenshot (59)](https://github.com/swethaselvarajm/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119525603/da43e164-8794-4242-93b1-23d9271f87c2)
 
-### Name: 
-### Register Number:
+### Name: SWETHA.S
+### Register Number: 212222230155
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
